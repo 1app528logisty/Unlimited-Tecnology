@@ -1838,14 +1838,9 @@ img{
 
 
 /*boton de prueba  (1)ivan*/
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-    text-decoration: none;
 
-}
+
+
 
 .button{
     width: 350px;
